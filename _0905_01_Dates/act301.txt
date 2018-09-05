@@ -1,0 +1,15 @@
+Release Date	Revised Recommended Due Date	Revised Actual Due Date	Recommended Due Date	Actual Due Date	Unit
+	Fri, Sep 7, 2018	Wed, Sep 12, 2018	Fri, Aug 31, 2018	Wed, Sep 5, 2018	Chapter 00
+Fri, Aug 31, 2018	Fri, Sep 14, 2018	Wed, Sep 19, 2018	Fri, Sep 7, 2018	Wed, Sep 12, 2018	Chapter 01
+Fri, Sep 7, 2018	Fri, Sep 21, 2018	Wed, Sep 26, 2018	Fri, Sep 14, 2018	Wed, Sep 19, 2018	Chapter 02
+Fri, Sep 14, 2018	Fri, Sep 28, 2018	Wed, Oct 3, 2018	Fri, Sep 21, 2018	Wed, Sep 26, 2018	Chapter 03
+Fri, Sep 21, 2018	Fri, Oct 5, 2018	Wed, Oct 10, 2018	Fri, Sep 28, 2018	Wed, Oct 3, 2018	Chapter 04
+Fri, Sep 28, 2018	Fri, Oct 12, 2018	Wed, Oct 17, 2018	Fri, Oct 5, 2018	Wed, Oct 10, 2018	Chapter 05
+Fri, Oct 5, 2018	Fri, Oct 19, 2018	Wed, Oct 24, 2018	Fri, Oct 12, 2018	Wed, Oct 17, 2018	Midterm
+Fri, Oct 12, 2018	Fri, Oct 26, 2018	Wed, Oct 31, 2018	Fri, Oct 19, 2018	Wed, Oct 24, 2018	Chapter 06
+Fri, Oct 19, 2018	Fri, Nov 2, 2018	Wed, Nov 7, 2018	Fri, Oct 26, 2018	Wed, Oct 31, 2018	Chapter 07
+Fri, Oct 26, 2018	Fri, Nov 9, 2018	Wed, Nov 14, 2018	Fri, Nov 2, 2018	Wed, Nov 7, 2018	Chapter 08
+Fri, Nov 2, 2018	Fri, Nov 16, 2018	Wed, Nov 21, 2018	Fri, Nov 9, 2018	Wed, Nov 14, 2018	Break
+Fri, Nov 9, 2018	Fri, Nov 23, 2018	Wed, Nov 28, 2018	Fri, Nov 16, 2018	Wed, Nov 21, 2018	Chapter 9
+Fri, Nov 16, 2018	Fri, Nov 30, 2018	Wed, Dec 5, 2018	Fri, Nov 23, 2018	Wed, Nov 28, 2018	Chapter 10
+Fri, Nov 23, 2018	Fri, Dec 7, 2018	Fri, Dec 14, 2018	Fri, Nov 30, 2018	Wed, Dec 5, 2018	Capstone
