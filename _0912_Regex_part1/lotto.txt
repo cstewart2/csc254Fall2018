@@ -1,0 +1,39 @@
+Login
+
+logo CONTACT US   /   RETAILERS
+
+Custom Search
+
+ My Lottery  Games  Winning Numbers  Claim Prizes  Promotions  Where the Money Goes  Newsroom
+blank image
+Historical Lotto Winning Numbers
+Lotto Million logo.
+Lowes
+Lot
+Car Lot and sales floor
+Draw Date	Winning Numbers	Jackpot
+Sat, Sep 08, 2018	1-10-15-18-19-28	$ 3.30 Million
+Wed, Sep 05, 2018	2-19-23-26-30-42	$ 3.20 Million
+Sat, Sep 01, 2018	2-4-12-22-29-39	$ 3.10 Million
+Wed, Aug 29, 2018	1-2-7-10-23-24	$ 3.00 Million
+Sat, Aug 25, 2018	5-16-20-28-30-42	$ 2.90 Million
+Wed, Aug 22, 2018	5-13-20-37-38-40	$ 2.80 Million
+Sat, Aug 18, 2018	12-14-21-27-33-40	$ 2.70 Million
+Wed, Aug 15, 2018	17-29-33-35-36-40	$ 2.60 Million
+Sat, Aug 11, 2018	12-14-15-16-18-35	$ 2.50 Million
+Wed, Aug 08, 2018	9-13-29-39-42-43	$ 2.40 Million
+Sat, Aug 04, 2018	3-16-19-27-31-39	$ 2.30 Million
+Wed, Aug 01, 2018	5-20-25-28-31-34	$ 2.20 Million
+Sat, Jul 28, 2018	3-7-15-27-28-31	$ 2.10 Million
+Wed, Jul 25, 2018	1-11-25-30-40-41	$ 2.00 Million
+Sat, Jul 21, 2018	28-31-34-35-36-41	$ 1.90 Million
+
+© 2018 Missouri Lottery  |  About Us |  Careers |  Calendar |  Play Responsibly |  Where to Play |  Game Rules
+Visit Us On
+
+(Wed|Sat)\,\s+[JFMASOND][a-z]{2}\s+\d+\,\s+\d{4}\s+\d+(-\d+){5}\s+\$\s+\d+\.\d\d\s+Million$
+
+Privacy Policy |  Terms & Conditions |  State of Missouri |  Spanish Translation
+Players must be 18 years or older to purchase Missouri Lottery tickets.
+
+*In the event of a discrepancy, official winning numbers prevail over any numbers posted on this website.
