@@ -1,10 +1,15 @@
 package com.noynaert.csc254;
 
 /**
- * Hello world!
+ * This program demonstrates various standard array operations.
+ * @author J. Evan Noynaert
+ * @since 2018-09-19
+ *
  */
 public class App {
     public static void main(String[] args) {
+
+        System.out.println("5/2 is " +  (double)5/2);  //"Cast" 5 to a double
 
         double[] list = {3.14159, -88.7, 1.414, 0, -3.2, 88.7, Math.PI, -88.7, -1.0};
         print(list, list.length);
@@ -32,6 +37,19 @@ public class App {
         System.out.println("Done");
     }
 
+    /**
+     * This method searches an array of doubles for the occurance of a specified
+     * double value.
+     *
+     * @param haystack  The array to be searched
+     * @param n         The number of actual items in the array.  Note that the
+     *                  array may be physically larger than the logical size
+     *                  specified by n
+     * @param needle    The double value to be searched
+     * @return          <ul><li>Returns true if the double is found in the haystack array</li>
+     *                  <li>Returns false if the double is not found in the haystack array.</li>
+     *                  <li>Always returns false if the haystack array is empty.</li></ul>
+     */
     public static boolean contains(double[] haystack, int n, double needle){
         boolean found = false;
 
@@ -78,5 +96,12 @@ public class App {
         for (int i = 0; i < list.length; i++) {
             System.out.printf("[%2d] %f\n", i, list[i]);
         }
+    }
+    public static void findEquals(int needle, int[] counts){
+        /*
+        for(each item in the array)
+            if(needle == counts[i])
+                print counts[i]    //this is probably wrong.
+        */
     }
 }
