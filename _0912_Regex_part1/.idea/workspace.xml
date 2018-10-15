@@ -7,10 +7,6 @@
       <change beforePath="$PROJECT_DIR$/../_0905_02_filesWithRegex/act301.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_0905_02_filesWithRegex/act301.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_0905_02_filesWithRegex/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_0905_02_filesWithRegex/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_0910_A_Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_0910_A_Strings/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lotto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lotto.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_0917_Stuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_0917_Stuff/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hmwk02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hmwk02/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,7 +22,7 @@
     <session id="-1938927478">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -209,16 +205,15 @@
       <updated>1536792171499</updated>
       <workItem from="1536792173250" duration="2667000" />
       <workItem from="1537394939261" duration="10000" />
-      <workItem from="1537394964335" duration="3853000" />
+      <workItem from="1537394964335" duration="3936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6530000" />
+    <option name="totallyTimeSpent" value="6613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="18" width="1260" height="720" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25833333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -230,7 +225,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32879046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
