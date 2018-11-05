@@ -2,6 +2,7 @@ package com.noynaert.csc254;
 
 
 import java.sql.*;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class App {
@@ -15,6 +16,10 @@ public class App {
         Scanner input = new Scanner(System.in);
         password = input.nextLine();
         System.out.println("Password is " + password);
+
+        //And array of weather stations
+        WeatherStation[] stations = new WeatherStation[6];
+        int n = 0;
 
         try {
             String connectionString = String.format("jdbc:mysql://%s/%s?user=%s&password=%s",server,database,user,password);
@@ -31,14 +36,27 @@ public class App {
                 //System.out.printf("%s has an elevation of %d meters\n",city, elevation);
                 WeatherStation station = new WeatherStation(city, elevation);
                 System.out.println(station);
+                stations[n++] = station;
             }
 
             conn.close();
+
+
+
         } catch (SQLException e) {
             e.printStackTrace();
         }
+        print(stations,"Before we sort");
 
-
+        Arrays.sort(stations);
+        print(stations, "After the sort");
         System.out.println("Hello World!");
+    }
+
+    public static void print(WeatherStation[] stations, String message){
+        System.out.printf("\n-------- %s -------------\n", message);
+        for(int i=0;i<stations.length;i++){
+            System.out.printf("%d. %s\n", i, stations[i]);
+        }
     }
 }
